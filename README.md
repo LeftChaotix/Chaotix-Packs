@@ -22,7 +22,7 @@ If a pack relates to a specifc mod, and that mod is only available on one of the
 |--|--|--|
 | Profile | https://modrinth.com/user/LeftChaotix | https://curseforge.com/members/leftchaotix |
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/pikmine_logo.png?raw=true) Pikmine | https://modrinth.com/resourcepack/pikmine | https://www.curseforge.com/minecraft/texture-packs/pikmine |
-| ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/goombestiary.png?raw=true) Goombestiary | Coming Soon | https://www.curseforge.com/minecraft/texture-packs/the-goombestiary-super-mario |
+| ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/goombestiary.png?raw=true) Goombestiary | https://modrinth.com/resourcepack/goombestiary | https://www.curseforge.com/minecraft/texture-packs/the-goombestiary-super-mario |
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/apotheotic_tweaks.png?raw=true) Apotheotic Tweaks | --- | https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks |
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/gun_models.png?raw=true) CGM Tweaks| Coming When CGM Updates | https://www.curseforge.com/minecraft/texture-packs/chaotix-gun-models |
 
