@@ -1,0 +1,18 @@
+I like to work towards projects. I like achieving something I am willing to share.
+That being said, there comes a time with projects where I just don't feel like updating them.
+When that happens, I decide to abandon them. If for some reason you would like to look at my 
+older (and potentially less quality work) then you can find them within this folder.
+
+If for some reason you know about a project that isn't present here, feel free to make an issue commit and ask about it
+if I still have the files, I'll probably upload it here.
+I will not update or support old projects like I do new ones though.
+
+Feel free to include them within modpacks or whatever
+Do not reupload them.
+Do not monetize them.
+Link back to this github if possible, so others know where they come from
+
+Live project should be available elsewhere.
+
+uhhh... yeah
+B)
