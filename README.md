@@ -25,5 +25,5 @@ If a pack relates to a specifc mod, and that mod is only available on one of the
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/goombestiary.png?raw=true) Goombestiary | https://modrinth.com/resourcepack/goombestiary | https://www.curseforge.com/minecraft/texture-packs/the-goombestiary-super-mario |
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/apotheotic_tweaks.png?raw=true) Apotheotic Tweaks | --- | https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks |
 | ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/e2efd6408906e6ca041605c4d500d2204cbf94eb/gun_models.png?raw=true) CGM Tweaks| Coming When CGM Updates | https://www.curseforge.com/minecraft/texture-packs/chaotix-gun-models |
-| ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/main/toms_metal_storage.png?raw=true) Tom's Metal Storage| --- | --- |
+| ![](https://github.com/LeftChaotix/Chaotix-Packs/blob/main/toms_metal_storage.png?raw=true) Tom's Metal Storage| --- | https://modrinth.com/resourcepack/toms-metal-storage |
 
