@@ -14,9 +14,6 @@ I don't feel like trying to control / grow a Discord community. I want a place f
 
 If a mod is causing an issue with a pack, and the mod isn't one of the requirements for the pack then the two are just incompatible. There isn't really much I can do on my end to fix that, sorry.
 
-#### Why is 'X' pack only on Modrinth / Curseforge?
-
-If a pack relates to a specifc mod, and that mod is only available on one of the mod providers... then I prefer to keep the pack on the same provider only (ex: Apotheosis isn't on Modrinth, so neither is my Apotheosis Pack)
 #### Active Packs:
 | Pack  | Curseforge |                                       
 |--|--|
